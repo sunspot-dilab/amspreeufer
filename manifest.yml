@@ -1,0 +1,6 @@
+---
+applications:
+  - name: lib
+    memory: 512M
+    path: ./build/libs/lib-0.0.1-SNAPSHOT.jar
+    timeout: 180
