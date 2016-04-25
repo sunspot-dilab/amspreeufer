@@ -5,4 +5,11 @@ spring:
   application:
     name: Library
 
+
+  datasource:
+    url: jdbc:mysql://localhost/dilab_lib
+    username: root
+
+
 logging.level.org.springframework.web: DEBUG
+logging.level.org.springframework.jdbc: DEBUG
