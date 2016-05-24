@@ -36,6 +36,7 @@ dependencies {
 
 	compile('org.freemarker:freemarker:2.3.23')
 	compile('org.projectlombok:lombok:1.16.8')
+//	compile('com.sendgrid:sendgrid-java:2.2.1')
 
 	testCompile('org.springframework.boot:spring-boot-starter-test')
 }
